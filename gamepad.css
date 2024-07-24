@@ -1,5 +1,7 @@
 .controller.custom{
-    height: 100%;
-    width: 100%;
-    background-color: aqua;
+    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base.svgz);
+    height: 630px;
+    width: 750px;
+    margin-left: -375px;
+    margin-top: -285px;
 }
